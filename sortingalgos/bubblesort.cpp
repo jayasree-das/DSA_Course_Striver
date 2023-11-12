@@ -1,3 +1,5 @@
+/*T.C:- O(n^2) for the worst and average cases
+S.C:- O(1)*/
 #include<bits/stdc++.h>
 using namespace std;
 
